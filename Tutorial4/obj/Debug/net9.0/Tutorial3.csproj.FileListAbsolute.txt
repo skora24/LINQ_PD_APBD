@@ -1,0 +1,15 @@
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.deps.json
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.runtimeconfig.json
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.dll
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.pdb
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.AssemblyInfoInputs.cache
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.AssemblyInfo.cs
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.csproj.CoreCompileInputs.cache
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.sourcelink.json
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.dll
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/refint/Tutorial3.dll
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.pdb
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.genruntimeconfig.cache
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/Debug/net9.0/ref/Tutorial3.dll

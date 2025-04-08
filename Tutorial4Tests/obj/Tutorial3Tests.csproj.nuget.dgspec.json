@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3Tests/Tutorial3Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/Tutorial3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/Tutorial3.csproj",
+        "projectName": "Tutorial3",
+        "projectPath": "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/Tutorial3.csproj",
+        "packagesPath": "/Users/pgago/.nuget/packages/",
+        "outputPath": "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pgago/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/pgago/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3Tests/Tutorial3Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3Tests/Tutorial3Tests.csproj",
+        "projectName": "Tutorial3Tests",
+        "projectPath": "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3Tests/Tutorial3Tests.csproj",
+        "packagesPath": "/Users/pgago/.nuget/packages/",
+        "outputPath": "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pgago/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/Tutorial3.csproj": {
+                "projectPath": "/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Tutorial3/Tutorial3/Tutorial3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/pgago/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
