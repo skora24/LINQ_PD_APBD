@@ -1,0 +1,43 @@
+# Pliki binarne i obiekty
+*.exe
+*.dll
+*.obj
+*.o
+*.suo
+*.user
+*.pdb
+*.cache
+*.ilk
+*.resources
+*.targets
+*.log
+*.bak
+*.tmp
+*.vspscc
+
+# Katalogi kompilacji
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+_ReSharper*/
+
+# Pakiety NuGet
+packages/
+
+# Ustawienia Visual Studio
+.vs/
+*.csproj.user
+*.sln.docstates
+
+# Ustawienia Resharper
+*.resharper.user*
+
+# Pliki systemowe
+[Tt]humbs.db
+*.DS_Store
+
+# Inne
+*.swp # Vim swap files
+*.sqlite # SQLite database files
